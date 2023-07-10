@@ -110,10 +110,10 @@ function Profile() {
 									color='#fff'
 									fontWeight='bold'
 									ms={{ sm: '8px', md: '0px' }}>
-									Mark Johnson
+									Gamex Dex
 								</Text>
 								<Text fontSize={{ sm: 'sm', md: 'md' }} color='gray.400'>
-									mark@simmmple.com
+									gamexdex@github.com
 								</Text>
 							</Flex>
 						</Flex>
@@ -182,7 +182,7 @@ function Profile() {
 							Welcome back!
 						</Text>
 						<Text color='#fff' fontSize='sm' mb='auto'>
-							Nice to see you, Mark Johnson!
+							Nice to see you, Gamex DEX!
 						</Text>
 						<Button alignSelf='flex-start' variant='no-hover' bg='transparent' p='0px'>
 							<Text
@@ -218,7 +218,7 @@ function Profile() {
 								Car Informations
 							</Text>
 							<Text fontSize='sm' color='gray.400'>
-								Hello, Mark Johnson! Your Car is ready.
+								Hello, Gamex Dex! Your Car is ready.
 							</Text>
 						</Flex>
 					</CardHeader>
@@ -360,7 +360,7 @@ function Profile() {
 					<CardBody px='5px'>
 						<Flex direction='column'>
 							<Text fontSize='sm' color={'gray.400'} fontWeight='400' mb='15px'>
-								Hi, I’m Mark Johnson, Decisions: If you can’t decide, the answer is no. If two equally
+								Hi, I’m Gamex DEX, Decisions: If you can’t decide, the answer is no. If two equally
 								difficult paths, choose the one more painful in the short term (pain avoidance is
 								creating an illusion of equality).
 							</Text>
@@ -370,7 +370,7 @@ function Profile() {
 									Full Name:{' '}
 								</Text>
 								<Text fontSize='sm' color='#fff' fontWeight='400'>
-									Mark Johnson
+									Gamex Dex
 								</Text>
 							</Flex>
 							<Flex align='center' mb='18px'>
@@ -378,7 +378,7 @@ function Profile() {
 									Mobile:{' '}
 								</Text>
 								<Text fontSize='sm' color='#fff' fontWeight='400'>
-									(44) 123 1234 123
+									(518) 406 8763
 								</Text>
 							</Flex>
 							<Flex align='center' mb='18px'>
@@ -386,7 +386,7 @@ function Profile() {
 									Email:{' '}
 								</Text>
 								<Text fontSize='sm' color='#fff' fontWeight='400'>
-									mark@simmmple.com
+									gamexdex@github.com
 								</Text>
 							</Flex>
 							<Flex align='center' mb='18px'>

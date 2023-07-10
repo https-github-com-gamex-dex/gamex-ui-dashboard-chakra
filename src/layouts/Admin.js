@@ -4,11 +4,11 @@
 * Vision UI Free Chakra - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-chakra
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-chakra/blob/master LICENSE.md)
+* Product Page: h
+* Copyright Gamex DEX 
+* Licensed under MIT ()
 
-* Design and Coded by Simmmple & Creative Tim
+* Design and Coded by Simmmple & Gamex DEX
 
 =========================================================
 
@@ -116,7 +116,7 @@ export default function Dashboard(props) {
     <ChakraProvider theme={theme} resetCss={false}>
       <Sidebar
         routes={routes}
-        logoText={"VISION UI FREE"}
+        logoText={"ACCOUNT OVERVIEW"}
         display='none'
         sidebarVariant={sidebarVariant}
         {...rest}
@@ -130,7 +130,7 @@ export default function Dashboard(props) {
         <Portal>
           <AdminNavbar
             onOpen={onOpen}
-            logoText={"VISION UI FREE"}
+            logoText={"ACCOUNT OVERVIEW"}
             brandText={getActiveRoute(routes)}
             secondary={getActiveNavbar(routes)}
             fixed={fixed}
