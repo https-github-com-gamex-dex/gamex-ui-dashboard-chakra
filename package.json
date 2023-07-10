@@ -74,5 +74,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/https-github-com-gamex-dex/gamex-ui-dashboard-chakra.git",
+  "author": "Gamex Dex <gamex-dex@github.com>",
+  "license": "MIT"
 }
